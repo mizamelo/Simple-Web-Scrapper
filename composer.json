@@ -1,0 +1,13 @@
+{
+    "name": "scrapper",
+    "description": "",
+    "authors": [
+        {
+            "name": "Mizael de Melo",
+            "email": "mizamelo22@gmail.com"
+        }
+    ],
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    }
+}
