@@ -14,7 +14,3 @@ $ composer install
 $ php -S localhost:8080
 
 `````
-
-
-__Mizael Melo__ - 
-PHP Developer
